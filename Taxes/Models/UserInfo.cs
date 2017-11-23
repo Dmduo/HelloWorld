@@ -6,5 +6,6 @@
         public double HoursWorked { get; set; }
         public double HourlyFee { get; set; }                                 //The User needs to input this information
         public string WorkersLocation { get; set; }
+        public string Benefits { get; set;}
     }
 }
