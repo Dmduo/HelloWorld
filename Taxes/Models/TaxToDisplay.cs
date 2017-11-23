@@ -12,5 +12,6 @@ namespace Taxes.Models
         public double InpsToDisplay { get; set; }                                             
         public double PensionToDisplay { get; set; }                                        
         public double UniversalSocialChargeToDisplay { get; set; }
+        public double PetarTax { get; set; }
     }
 }
